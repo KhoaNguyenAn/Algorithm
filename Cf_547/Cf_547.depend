@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1516375991 source:c:\c++\cf_547\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cstring>
+	<math.h>
+	<stdio.h>
+

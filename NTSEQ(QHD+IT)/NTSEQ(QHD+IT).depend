@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553053842 source:d:\algorithm\ntseq(qhd+it)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

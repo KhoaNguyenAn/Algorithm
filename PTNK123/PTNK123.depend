@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536492319 source:d:\algorithm\ptnk123\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	<math.h>
+
+1536511015 source:d:\algorithm\ptnk123\bfs.cpp
+	<bits/stdc++.h>
+

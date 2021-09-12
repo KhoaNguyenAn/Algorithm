@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539436330 source:d:\algorithm\kiem_tra_do_thi_2_phia\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+

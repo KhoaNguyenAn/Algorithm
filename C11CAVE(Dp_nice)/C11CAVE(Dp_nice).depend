@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551892521 source:d:\algorithm\c11cave(dp_nice)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

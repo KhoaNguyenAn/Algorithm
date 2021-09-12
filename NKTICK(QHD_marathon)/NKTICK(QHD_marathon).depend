@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554461490 source:d:\algorithm\nktick(qhd_marathon)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

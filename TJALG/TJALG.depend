@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533222891 source:d:\algorithm\tjalg\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<queue>
+

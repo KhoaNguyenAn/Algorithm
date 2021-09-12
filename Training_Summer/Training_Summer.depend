@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1529069113 source:d:\algorithm\training_summer\fall.cpp
+	<iostream>
+
+1529069293 source:d:\algorithm\training_summer\airlines.cpp
+	<bits/stdc++.h>
+	<algorithm>
+	<math.h>
+

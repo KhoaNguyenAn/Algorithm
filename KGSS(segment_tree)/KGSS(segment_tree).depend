@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554610232 source:d:\algorithm\kgss(segment_tree)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

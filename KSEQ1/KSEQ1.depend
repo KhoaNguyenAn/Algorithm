@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530621510 source:d:\algorithm\kseq1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1556029548 source:d:\algorithm\23.4(anhthuc)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+
+1556120535 source:d:\algorithm\23.4(anhthuc)\pair.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

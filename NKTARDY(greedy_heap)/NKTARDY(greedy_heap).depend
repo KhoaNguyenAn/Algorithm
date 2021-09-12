@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1556419525 source:d:\algorithm\nktardy(greedy_heap)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

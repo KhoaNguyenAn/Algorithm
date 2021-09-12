@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522714775 source:c:\c++\qbschool\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<stdio.h>
+	<algorithm>
+	<math.h>
+

@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1559804187 source:d:\algorithm\div3\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stdio.h>
+
+1559918192 source:d:\algorithm\div3\stone.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<iostream>
+
+1559921241 source:d:\algorithm\div3\grid1.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<math.h>
+	<cstring>
+
+1560004939 source:d:\algorithm\div3\lis2d.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<math.h>
+	<cstring>
+	<bits/stdc++.h>
+
+1560858819 source:d:\algorithm\div3\lm.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1561144151 source:d:\algorithm\div3\cnarr.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1563981028 source:d:\algorithm\div3\experiment.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+
+1565713811 source:d:\algorithm\div3\d.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1564507305 source:d:\algorithm\div3\c.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1565347612 source:d:\algorithm\div3\e.cpp
+	<bits/stdc++.h>
+

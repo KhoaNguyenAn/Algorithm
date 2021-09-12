@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554429997 source:d:\algorithm\amsseq(qhd)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

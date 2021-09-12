@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551447742 source:d:\algorithm\dttui2(hard_dp+dequeue)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

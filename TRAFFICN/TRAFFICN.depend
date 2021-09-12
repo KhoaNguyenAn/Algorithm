@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524415798 source:c:\c++\trafficn\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<queue>
+	<algorithm>
+	<math.h>
+
+1568180227 source:d:\algorithm\trafficn\main.cpp
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532537204 source:d:\algorithm\qbmax\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

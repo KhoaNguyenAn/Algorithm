@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519710990 source:c:\c++\xoasof\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+

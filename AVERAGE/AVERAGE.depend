@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1522197172 source:c:\c++\average\main.cpp
+	<iostream>
+
+1522197174 source:d:\algorithm\average\main.cpp
+	<iostream>
+

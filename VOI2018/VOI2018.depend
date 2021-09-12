@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1536679638 source:d:\algorithm\voi2018\tuchuan.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1537408567 source:d:\algorithm\voi2018\mission.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<math.h>
+	<algorithm>
+
+1537411214 source:d:\algorithm\voi2018\potion.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<math.h>
+	<algorithm>
+
+1537412391 source:d:\algorithm\voi2018\attack.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<math.h>
+	<algorithm>
+
+1537513341 source:d:\algorithm\voi2018\lock.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<vector>
+

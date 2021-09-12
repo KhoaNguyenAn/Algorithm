@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1532539163 source:d:\algorithm\nkinv\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<stdio.h>
+

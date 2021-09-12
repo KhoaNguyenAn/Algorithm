@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514307950 source:c:\c++\inserting_bricks\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<algorithm>
+	<stdio.h>
+

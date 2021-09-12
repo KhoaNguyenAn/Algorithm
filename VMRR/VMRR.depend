@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1549994704 source:d:\algorithm\vmrr\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

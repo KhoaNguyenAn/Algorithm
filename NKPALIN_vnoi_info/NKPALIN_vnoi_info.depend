@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517665550 source:c:\c++\nkpalin_vnoi_info\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

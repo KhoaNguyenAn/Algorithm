@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1509460861 source:c:\c++\stack_kplank\main.cpp
+	<iostream>
+	<stdio.h>
+
+1531211638 source:d:\algorithm\stack_kplank\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1531216065 source:d:\algorithm\stack_kplank\rect.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

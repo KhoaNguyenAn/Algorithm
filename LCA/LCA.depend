@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520255467 source:c:\c++\lca\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+

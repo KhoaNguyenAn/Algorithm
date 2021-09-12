@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537769407 source:d:\algorithm\mincut\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<math.h>
+

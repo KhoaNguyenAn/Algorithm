@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1538913602 source:d:\algorithm\os\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<stdio.h>
+
+1538919043 source:d:\algorithm\os\os.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<stdio.h>
+

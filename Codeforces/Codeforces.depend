@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1515429557 source:c:\c++\codeforces\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<string>
+	<algorithm>
+	<stdlib.h>
+
+1528044048 source:d:\algorithm\codeforces\probleme_contest276.cpp
+
+1528548470 source:d:\algorithm\codeforces\problemd_contest981.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	<math.h>
+	<stdlib.h>
+

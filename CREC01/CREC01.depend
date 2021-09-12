@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1517973815 source:c:\c++\crec01\main.cpp
+	<iostream>
+	<stdio.h>
+
+1552362366 source:d:\algorithm\crec01\main.cpp
+	<iostream>
+	<stdio.h>
+

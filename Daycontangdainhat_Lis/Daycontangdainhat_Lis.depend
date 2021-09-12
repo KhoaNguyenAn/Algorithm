@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509198090 source:c:\c++\daycontangdainhat_lis\main.cpp
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<algorithm>
+

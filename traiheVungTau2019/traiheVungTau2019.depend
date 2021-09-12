@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1563614558 source:d:\algorithm\traihevungtau2019\rectcut.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1563616155 source:d:\algorithm\traihevungtau2019\biro.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1563682411 source:d:\algorithm\traihevungtau2019\capital.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1563699678 source:d:\algorithm\traihevungtau2019\maxpdag.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<math.h>
+	<cstring>
+
+1563701529 source:d:\algorithm\traihevungtau2019\tram.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1563791780 source:d:\algorithm\traihevungtau2019\atm.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1563853334 source:d:\algorithm\traihevungtau2019\assign.cpp
+	<bits/stdc++.h>
+
+1563860258 source:d:\algorithm\traihevungtau2019\nangsuat.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1563871055 source:d:\algorithm\traihevungtau2019\querysum.cpp
+	<bits/stdc++.h>
+
+1563900735 source:d:\algorithm\traihevungtau2019\query.cpp
+	<iostream>
+	<cstdio>
+
+1563959456 source:d:\algorithm\traihevungtau2019\sabotage.cpp
+	<bits/stdc++.h>
+

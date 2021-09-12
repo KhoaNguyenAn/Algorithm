@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1549644695 source:d:\algorithm\voi2014_lcs2x_qhd\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514644082 source:c:\c++\goodbye2017\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<cstring>
+	<math.h>
+

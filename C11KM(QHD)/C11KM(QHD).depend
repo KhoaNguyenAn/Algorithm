@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1552504106 source:d:\algorithm\c11km(qhd)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

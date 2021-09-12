@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1515848507 source:c:\c++\prim\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<math.h>
+	<vector>
+	<cstring>
+

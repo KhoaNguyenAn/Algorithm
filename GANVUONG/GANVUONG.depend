@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1516458220 source:c:\c++\ganvuong\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<math.h>
+	<cstring>
+	<string>
+	<stdlib.h>
+	<algorithm>
+	<cstring>
+	<stdio.h>
+

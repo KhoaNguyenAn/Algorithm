@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562302570 source:d:\algorithm\chain2(trie)\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+

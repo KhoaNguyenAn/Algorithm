@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537859059 source:d:\algorithm\lubenica\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<algorithm>
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1550559366 source:d:\algorithm\olympic11_30.4_2013\vikhuan.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<string>
+	<stack>
+
+1553743475 source:d:\algorithm\olympic11_30.4_2013\bientau.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

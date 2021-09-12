@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551599886 source:d:\algorithm\dp_on_tree(ez)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

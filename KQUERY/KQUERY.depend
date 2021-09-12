@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526736233 source:c:\c++\kquery\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

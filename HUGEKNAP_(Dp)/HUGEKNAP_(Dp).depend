@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551418866 source:d:\algorithm\hugeknap_(dp)\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<cstdio>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552324017 source:d:\algorithm\dhexp\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+

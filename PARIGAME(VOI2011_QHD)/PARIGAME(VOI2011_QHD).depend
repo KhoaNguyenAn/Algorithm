@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1552967060 source:d:\algorithm\parigame(voi2011_qhd)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

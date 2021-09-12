@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522295530 source:c:\c++\rect9\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+

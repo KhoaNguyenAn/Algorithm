@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517245583 source:c:\c++\chiaqua\main.cpp
+	<iostream>
+	<math.h>
+

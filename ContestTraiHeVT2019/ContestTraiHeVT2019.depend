@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1564105441 source:d:\algorithm\contesttraihevt2019\lminmax.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1564112463 source:d:\algorithm\contesttraihevt2019\coloring.cpp
+	<stdio.h>
+	<cstdio>
+	<iostream>
+	<set>
+	<deque>
+
+1564110125 source:d:\algorithm\contesttraihevt2019\securepath.cpp
+	<bits/stdc++.h>
+

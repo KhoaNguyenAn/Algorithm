@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1549958349 source:d:\algorithm\voi06_qbselect_qhd(bitmask)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

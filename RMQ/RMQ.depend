@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531277221 source:d:\algorithm\rmq\main.cpp
+	<iostream>
+	<stdio.h>
+	<bits/stdc++.h>
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1548310689 source:d:\algorithm\test\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+
+1546085289 source:d:\algorithm\test\a.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+	<bits/stdc++.h>
+
+1610876973 source:d:\algorithm\test\cf.cpp
+	<bits/stdc++.h>
+

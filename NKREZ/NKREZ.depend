@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523030173 source:c:\c++\nkrez\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

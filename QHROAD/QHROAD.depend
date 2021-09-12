@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1521985324 source:c:\c++\qhroad\qhroad.cpp
+	<bits/stdc++.h>
+	<algorithm>
+	<math.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1568348799 source:d:\algorithm\qtseq(preffix_suffix)\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+

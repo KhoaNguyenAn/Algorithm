@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1552982266 source:d:\algorithm\ac2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+
+1552982761 source:d:\algorithm\ac2\fair.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+
+1552983708 source:d:\algorithm\ac2\dmt.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cmath>
+

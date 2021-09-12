@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1547488677 source:d:\algorithm\chat_nhi_phan_sothuc\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<cstdlib>
+	<stack>
+

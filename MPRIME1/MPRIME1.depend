@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1536557389 source:d:\algorithm\mprime1\main.cpp
+	<iostream>
+	<math.h>
+	<bits/stdc++.h>
+	<stdio.h>
+

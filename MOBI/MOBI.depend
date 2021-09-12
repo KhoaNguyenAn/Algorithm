@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519730082 source:c:\c++\mobi\main.cpp
+	<iostream>
+	<stdio.h>
+

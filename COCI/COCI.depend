@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1542469775 source:d:\algorithm\coci\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

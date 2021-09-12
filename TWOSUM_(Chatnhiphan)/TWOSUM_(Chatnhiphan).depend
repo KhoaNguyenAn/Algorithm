@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551635394 source:d:\algorithm\twosum_(chatnhiphan)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

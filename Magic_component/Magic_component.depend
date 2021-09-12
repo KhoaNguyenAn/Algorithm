@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529412888 source:d:\algorithm\magic_component\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+

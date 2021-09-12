@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522292708 source:c:\c++\kmin\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+
+1532720387 source:d:\algorithm\kmin\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+

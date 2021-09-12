@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1550318676 source:d:\algorithm\ioi07_nkminers\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

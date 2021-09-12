@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522740598 source:c:\c++\hoicho\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+	<stdio.h>
+	<vector>
+	<cstring>
+	<queue>
+

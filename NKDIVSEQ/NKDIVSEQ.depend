@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537813064 source:d:\algorithm\nkdivseq\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

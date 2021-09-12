@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1551463159 source:d:\algorithm\qbgame_qhd(ez)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

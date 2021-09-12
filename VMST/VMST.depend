@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537891572 source:d:\algorithm\vmst\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

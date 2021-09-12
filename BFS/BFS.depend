@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512483254 source:c:\c++\bfs\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<cstring>
+

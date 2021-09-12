@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1536407728 source:d:\algorithm\lem1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<math.h>
+	<stdio.h>
+

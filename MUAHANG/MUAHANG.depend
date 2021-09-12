@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517681861 source:c:\c++\muahang\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<math.h>
+

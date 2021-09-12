@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537778330 source:d:\algorithm\bonus\main.cpp
+	<iostream>
+	<stdio.h>
+	<bits/stdc++.h>
+	<algorithm>
+	<math.h>
+

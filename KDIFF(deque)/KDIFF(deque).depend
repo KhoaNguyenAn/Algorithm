@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1552355409 source:d:\algorithm\kdiff(deque)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535365023 source:d:\algorithm\nkcable\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

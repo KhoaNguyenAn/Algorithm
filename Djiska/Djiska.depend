@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1522070749 source:c:\c++\djiska\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	<math.h>
+
+1522070750 source:d:\algorithm\djiska\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	<math.h>
+

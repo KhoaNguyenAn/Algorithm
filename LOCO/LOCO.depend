@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1531299858 source:d:\algorithm\loco\main.cpp
+	<iostream>
+	<stdio.h>
+	<bits/stdc++.h>
+	<algorithm>
+
+1531304217 source:d:\algorithm\loco\loco.cpp
+	<iostream>
+	<stdio.h>
+	<bits/stdc++.h>
+	<algorithm>
+

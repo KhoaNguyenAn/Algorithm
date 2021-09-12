@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1531121595 source:d:\algorithm\divseq\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

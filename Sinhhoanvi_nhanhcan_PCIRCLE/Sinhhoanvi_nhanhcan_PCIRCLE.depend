@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1550563778 source:d:\algorithm\sinhhoanvi_nhanhcan_pcircle\main.cpp
+	<stdio.h>
+	<cstdio>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<cstdlib>
+	<stack>
+

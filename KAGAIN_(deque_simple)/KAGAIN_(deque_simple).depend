@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1552116602 source:d:\algorithm\kagain_(deque_simple)\main.cpp
+	"iostream"
+	"stdio.h"
+	"stdlib.h"
+	"string"
+	"string.h"
+	"algorithm"
+	"math.h"
+	"vector"
+	"map"
+	"queue"
+	"stack"
+	"deque"
+	"set"
+

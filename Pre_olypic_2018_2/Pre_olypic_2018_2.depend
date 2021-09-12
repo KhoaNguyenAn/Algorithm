@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522376900 source:c:\c++\pre_olypic_2018_2\booking_room.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<string>
+	<cstring>
+	<stdlib.h>
+

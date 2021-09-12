@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582545037 source:d:\algorithm\hsgtp2009\fibo.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<queue>
+

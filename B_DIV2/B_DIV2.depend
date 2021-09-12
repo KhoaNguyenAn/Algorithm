@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514196481 source:c:\c++\b_div2\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<stdlib.h>
+
+1514196482 source:d:\algorithm\b_div2\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<stdlib.h>
+

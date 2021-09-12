@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1546189972 source:d:\algorithm\goodbye2018\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+	<bits/stdc++.h>
+

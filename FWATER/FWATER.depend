@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1516451149 source:c:\c++\fwater\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cstring>
+	<stdio.h>
+	<math.h>
+

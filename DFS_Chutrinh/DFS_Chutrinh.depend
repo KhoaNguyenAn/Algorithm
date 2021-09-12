@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512220359 source:c:\c++\dfs_chutrinh\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<math.h>
+	<cstring>
+	<stdlib.h>
+

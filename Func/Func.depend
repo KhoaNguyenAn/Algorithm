@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531360654 source:d:\algorithm\func\func.cpp
+	<iostream>
+	<stdio.h>
+	<bits/stdc++.h>
+

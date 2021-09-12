@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554570452 source:d:\algorithm\scollect(qhd2d_hard)\main.cpp
+	<algorithm>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	<math.h>
+	<deque>
+	<vector>
+	<queue>
+

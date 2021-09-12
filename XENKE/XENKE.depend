@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519703388 source:c:\c++\xenke\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

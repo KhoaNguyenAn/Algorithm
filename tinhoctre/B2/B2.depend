@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1557580682 source:d:\algorithm\tinhoctre\b2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1557635549 source:d:\algorithm\tinhoctre\b2\combicat.cpp
+	<iostream>
+	<bits/stdc++.h>
+

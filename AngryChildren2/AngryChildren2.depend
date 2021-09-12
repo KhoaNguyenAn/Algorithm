@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1521309727 source:c:\c++\angrychildren2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<math.h>
+
+1521310044 source:d:\algorithm\angrychildren2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<math.h>
+

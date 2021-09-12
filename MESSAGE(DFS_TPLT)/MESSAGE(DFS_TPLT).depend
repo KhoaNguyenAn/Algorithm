@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553649083 source:d:\algorithm\message(dfs_tplt)\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1534217764 source:d:\algorithm\mission_impossible\2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1534221490 source:d:\algorithm\mission_impossible\3.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1534151628 source:d:\algorithm\mission_impossible\4.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	<algorithm>
+	<iostream>
+
+1534119024 source:d:\algorithm\mission_impossible\5.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	<algorithm>
+	<iostream>
+	<stack>
+
+1534135698 source:d:\algorithm\mission_impossible\6.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1534156655 source:d:\algorithm\mission_impossible\7.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	<algorithm>
+	<iostream>
+
+1534223452 source:d:\algorithm\mission_impossible\8.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	<algorithm>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534868571 source:d:\algorithm\cutseq\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

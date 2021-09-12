@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1531559753 source:d:\algorithm\ptnk\compare.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+
+1531562103 source:d:\algorithm\ptnk\search.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+

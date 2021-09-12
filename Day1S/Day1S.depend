@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531101515 source:d:\algorithm\day1s\main.cpp
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+

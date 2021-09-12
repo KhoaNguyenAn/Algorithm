@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532429631 source:d:\algorithm\nklineup\main.cpp
+	<iostream>
+	<stdio.h>
+	<bits/stdc++.h>
+

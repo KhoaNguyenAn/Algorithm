@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525531385 source:c:\c++\qmax\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537978771 source:d:\algorithm\micemaze\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1553238857 source:d:\algorithm\ac3\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+
+1553243819 source:d:\algorithm\ac3\sodb.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+
+1553243043 source:d:\algorithm\ac3\khoa.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+
+1553244028 source:d:\algorithm\ac3\xaydung.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

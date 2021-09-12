@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522067532 source:c:\c++\xuongrong\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<cstring>
+	<math.h>
+	<bits/stdc++.h>
+

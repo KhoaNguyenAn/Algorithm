@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521292243 source:c:\c++\qhdtrangthai\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

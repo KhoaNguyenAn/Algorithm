@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1550676263 source:d:\algorithm\bfs_greedy_mecung\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

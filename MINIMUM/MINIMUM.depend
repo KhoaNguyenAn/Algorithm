@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531537410 source:d:\algorithm\minimum\minimum.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+

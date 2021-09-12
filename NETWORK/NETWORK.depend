@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1522296044 source:c:\c++\network\main.cpp
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<cstring>
+	<math.h>
+	<bits/stdc++.h>
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+

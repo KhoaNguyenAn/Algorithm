@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535387778 source:d:\algorithm\lqdgonme\main.cpp
+	<iostream>
+	<stdio.h>
+	<bits/stdc++.h>
+

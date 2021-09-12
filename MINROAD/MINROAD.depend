@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1531186430 source:d:\algorithm\minroad\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1532494043 source:d:\algorithm\minroad\minroad.cpp
+	<iostream>
+	<bits/stdc++.h>
+

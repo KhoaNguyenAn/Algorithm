@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1549679489 source:d:\algorithm\vnoi2011_treeline\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<queue>
+	<cmath>
+	<sstream>
+	<set>
+	<list>
+	<map>
+	<stack>
+

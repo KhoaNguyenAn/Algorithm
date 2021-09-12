@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522074471 source:c:\c++\dulich\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+	<stdio.h>
+	<vector>
+

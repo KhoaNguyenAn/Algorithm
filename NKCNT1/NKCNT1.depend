@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533139405 source:d:\algorithm\nkcnt1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+
